@@ -12,3 +12,5 @@ Feb 12th:  Created Repository
 Feb 13th:  Cloned repo onto local machine and updated README
 
 Feb 15th:  Setup Nextjs/React/Typescript filesystem for development
+
+Feb 17th: Began development of the first page - Login page
